@@ -1,2 +1,2 @@
-# Citrus_F1pop_Crossover_detection
-This repository provides reproducible workflows for crossover identification in an F1 Citrus hybrid population using NGS data. It includes RIM marker screening, recombination inference, and SNP/Bin-level screening methods.
+# Citrus_CO_detection_and_design_breeding
+This repository contains all analytical workflows and scripts for crossover identification and design breeding in a Citrus F1 biparental hybrid population. The code supports comprehensive genomic and breeding analyses across three distinct research dimensions, enabling reproducible reconstruction of recombination landscapes, breeding simulations , and foreground and background selection. By integrating these dimensions, the workflows bridge the gap between genetic mapping and practical breeding, providing a transparent and reproducible framework to precisely dissect.
